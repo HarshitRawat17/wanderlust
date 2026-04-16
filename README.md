@@ -97,41 +97,6 @@ WanderLust/
 - Mapbox account
 - npm or yarn
 
-### Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/Surajrawat7017/wanderlust.git
-cd wanderlust
-```
-
-2. **Install dependencies**
-```bash
-npm install
-```
-
-3. **Configure environment variables**
-
-Create a `.env` file in the root directory:
-```env
-CLOUD_NAME=your_cloudinary_name
-CLOUD_API_KEY=your_cloudinary_api_key
-CLOUD_API_SECRET=your_cloudinary_api_secret
-MAP_TOKEN=your_mapbox_access_token
-MONGO_URL=your_mongodb_connection_string
-SESSION_SECRET=your_session_secret
-PORT=3000
-```
-
-4. **Run the application**
-```bash
-npm start
-```
-
-5. **Access the application**
-Open your browser and navigate to `http://localhost:3000`
-
----
 
 ## 🔐 Authentication & Security
 
@@ -222,23 +187,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - **Mapbox** – For interactive map integration
 - **Bootstrap** – For responsive UI components
 - **MongoDB Atlas** – For cloud database hosting
-
----
-
-## 👨‍💻 Author
-
-**Suraj Singh Rawat**  
-B.Tech Student | Full Stack Web Developer
-
-- GitHub: [@Surajrawat7017](https://github.com/Surajrawat7017)
-- Project Repository: [WanderLust](https://github.com/Surajrawat7017/wanderlust)
-
 ---
 
 <div align="center">
-
-### 🌟 If you found this project helpful, please give it a star! 🌟
-
-Made with ❤️ and ☕ by [Suraj Singh Rawat](https://github.com/Surajrawat7017)
 
 </div>
